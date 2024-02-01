@@ -21,4 +21,3 @@ Los lenguajes de programación que manejo son:
 - C++
 
 
-¡Gracias por visitar mi perfil! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o colaboración en mente.
